@@ -8,3 +8,30 @@
 ![Combo](https://github.com/user-attachments/assets/71cd73ec-8e34-45c5-99ce-ce7269dbe777)
 ![celular](https://github.com/user-attachments/assets/b5bb6583-e09e-4c41-98eb-506802741eb4)
 ![Background](https://github.com/user-attachments/assets/a6376210-9edb-4d15-95dc-eb7b5256d0be)
+[Uploading styl:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 100vh;
+}
+e.css…]()
